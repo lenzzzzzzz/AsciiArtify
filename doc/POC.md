@@ -1,5 +1,5 @@
-# POC: ArgoCD
-
+# POC: ArgoCD  
+https://argo-cd.readthedocs.io/en/stable/
 ## Інструкція на отримання доступу до інтерфейсу ArgoCD
 
  ### Створення локального кластеру для встановлення ArgoCD
@@ -26,4 +26,5 @@ $ k -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.passwor
 
 ### Створення та синхронізація застосунку
 
-![ezgif-6ac14a2327d57d](https://github.com/user-attachments/assets/945f6671-dda6-4cf4-8c58-ef05c69b7339)
+![ezgif-6ac14a2327d57d](https://github.com/user-attachments/assets/945f6671-dda6-4cf4-8c58-ef05c69b7339)  
+https://argo-cd.readthedocs.io/en/stable/
